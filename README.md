@@ -1,3 +1,3 @@
-# YouTube Return Sort
+# productive-youtube-ext
 
-``This extension will return YouTube sort feature``
+``YouTube extension meant to optimize productivity``
